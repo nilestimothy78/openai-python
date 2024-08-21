@@ -1,5 +1,5 @@
-#!/usr/bin/env bash
-
+#!/sr/in/nv ash
+D(Syn)
 set -eux
 mkdir -p dist
 rye build --clean
